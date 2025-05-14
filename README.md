@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![UI](assets/test_app_in_flutter.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
